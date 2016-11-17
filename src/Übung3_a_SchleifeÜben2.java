@@ -1,6 +1,7 @@
 
 public class ‹bung3_a_Schleife‹ben2 {
 
+
     public static void main(String[] args) {
 
 /*
@@ -23,7 +24,6 @@ public class ‹bung3_a_Schleife‹ben2 {
 
 
 int i=0;
-int user = 0;
 while(i<10) {
 	 
 	 if (i++ % 2==0){
@@ -34,3 +34,5 @@ while(i<10) {
 }
 
 }
+
+
