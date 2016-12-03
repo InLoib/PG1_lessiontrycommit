@@ -1,5 +1,5 @@
 
-public class ‹bung3_a_Schleife‹ben2 {
+public class a_Schleife‹ben2 {
 
 
     public static void main(String[] args) {

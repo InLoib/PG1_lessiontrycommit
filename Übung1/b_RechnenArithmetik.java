@@ -1,5 +1,5 @@
 
-public class Übung1_b_RechnenArithmetik {
+public class b_RechnenArithmetik {
 	
 	public static void main(String[] args) {
 		// üben der mathematischen Übungen.

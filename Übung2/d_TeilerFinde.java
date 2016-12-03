@@ -1,5 +1,5 @@
 
-public class Übung2_d_TeilerFinde {
+public class d_TeilerFinde {
 
 
 	public static void main(String[] args) {

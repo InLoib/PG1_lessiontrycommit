@@ -1,5 +1,5 @@
 
-public class Übung2_b_ParamTest {
+public class b_ParamTest {
 
 	public static void main(String[] args) {
 

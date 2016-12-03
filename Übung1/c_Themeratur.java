@@ -1,5 +1,5 @@
 
-public class Übung1_c_Themeratur {
+public class c_Themeratur {
 
 	public static void main(String[] args) {
 

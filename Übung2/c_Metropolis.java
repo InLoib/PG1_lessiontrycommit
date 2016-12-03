@@ -1,5 +1,5 @@
 
-public class Übung2_c_Metropolis {
+public class c_Metropolis {
 
 	public static void main(String[] args) {
 

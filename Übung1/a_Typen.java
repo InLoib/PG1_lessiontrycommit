@@ -1,5 +1,5 @@
 
-public class Übung1_a_Typen {
+public class a_Typen {
 
 	public static void main(String[] args) {
 	

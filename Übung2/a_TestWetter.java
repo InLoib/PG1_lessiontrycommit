@@ -1,5 +1,5 @@
 
-public class Übung2_a_TestWetter {
+public class a_TestWetter {
 
 	public static String buildWeatherText(String weather, String emotion) {
 		return "It's "+weather+" "+emotion;

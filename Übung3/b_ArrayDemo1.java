@@ -1,5 +1,5 @@
 
-public class Übung3_b_ArrayDemo1 {
+public class b_ArrayDemo1 {
 
 	public static void main(String[] args) {
 
