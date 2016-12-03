@@ -1,3 +1,4 @@
+package Übung1;
 
 public class a_Typen {
 

@@ -1,3 +1,4 @@
+package Übung2;
 
 public class b_ParamTest {
 
