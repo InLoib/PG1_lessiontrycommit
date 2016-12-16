@@ -9,16 +9,8 @@ public class b_MayBeInt {
 		return status;
 	}
 
-	public void setStatus(int status) {
-			this.status = status;
-	}
-
 	public int getData() {
 		return data;
-	}
-
-	public void setData(int data) {
-		this.data = data;
 	}
 
 	public b_MayBeInt (int data, int status) {
@@ -44,6 +36,3 @@ public class b_MayBeInt {
 	}
 	
 }
-
-
-
